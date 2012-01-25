@@ -6,6 +6,8 @@
 
 // Yet another Comment, this time to see what the diffs are
 
+// THIS TIME IN RELEASE VERSION!!!
+
 if ($_FILES["file"]["error"] > 0)
   {
      echo "Error: " . $_FILES["file"]["error"] . "<br />";
